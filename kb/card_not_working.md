@@ -1,0 +1,3 @@
+<!-- AI-GENERATED (Claude, Anthropic) -->
+# Card not working
+If your NileBank card is declined or not working, first open the NileBank app and check that the card is not frozen (Cards > Manage > Freeze/Unfreeze). Make sure the card has not expired and that you are entering the correct PIN. Check that the merchant accepts Visa or Mastercard. If online payments fail, confirm that online payments are enabled in Cards > Security settings. If the card is physically damaged, order a replacement in the app for free. If the card still does not work, contact support through in-app chat or call the hotline 19999.
